@@ -1,5 +1,7 @@
 # Fractal Drawer
 
+# This was created for university purpose
+
 # This program draws a premade fractal of 3 shapes (circle, triangle, rectangle) based on the desired user input. This uses recursion to draw each level of the fractal, however, as memory is not unlimited, the fractal was limited to around 8-10 levels of recursion. Each level of recursion draws multiple shapes at a set location with a changing size to create a modular shape.
 
 # The Canvas.java file was provided and was not edited. 
