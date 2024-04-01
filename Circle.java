@@ -16,7 +16,7 @@ public class Circle {
     }
 
     public double calculatePerimeter() {
-        double p = 3.14*radius;
+        double p = 2*3.14*radius;
         return p;
     }
 
