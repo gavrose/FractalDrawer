@@ -17,7 +17,7 @@ public class Triangle {
     }
     
     public double calculatePerimeter(){
-        return this.width*3;
+        return width + Math.sqrt((width * width) + 4*(height * height));
     }
 
     public double calculateArea(){
